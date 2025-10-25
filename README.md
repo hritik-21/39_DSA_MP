@@ -82,9 +82,3 @@ Once the library is added, you can run the project:
 4.  To process a call, click **"Process Next Call"**. A pop-up will show the details of the call from the *top* of the list.
 5.  The queue display will update, showing the processed call has been removed.
 6.  Click **"Clear All Calls"** to empty the queue.
-
------
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
